@@ -7,4 +7,5 @@ const path = require('path')
 
 const testItem = async page => {
   console.log('############ 要素を1つ取得 ############')
+  
 }
