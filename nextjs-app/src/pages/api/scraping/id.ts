@@ -9,7 +9,7 @@ import * as fs from "fs";
 
 const handler: NextApiHandler = async (req, res) => {
   try {
-   
+
     const url = `https://wxh.jp/famima/00_all.html`; // <- id取得できるWebサイト
 
     if (!url) {
@@ -26,18 +26,23 @@ const handler: NextApiHandler = async (req, res) => {
     // ここで上記urlのhtmlを取得できるよ!
     const html = await page.content();
 
-    /* でこのhtmlは ./src/libs/html/sample.htmlに格納されているような形のhtmlになってる
+ /* でこのhtmlは ./src/libs/html/sample.htmlに格納されているような形のhtmlになってる
     今までは fs.writeFileSync("./src/libs/html/sample/sample.html", html);
     で一旦ファイルに保存してたけど、このファイルの中で操作をしてみよう!
      */
 
-    const tag = `<script type="application/ld+json">`;
-    const index = html.indexOf(tag);
-    const html2 = html.slice(index + tag.length);
-    const index2 = html2.indexOf(`</script>`);
+    const tag = "店</a></td><td>";
+    const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　
+    const html2 = html.slice(index + tag.length); //
+    const index2 = html2.indexOf("</td>");
     const json = html2.slice(0, index2);
     
-    fs.writeFileSync("./src/data/familymarts/id.json",json);
+    const id = JSON.parse(json);
+    // for (let i=0;i<id.)
+
+   
+
+    fs.writeFileSync("./src/data/familymarts/id_.ts",id);
 
 
 

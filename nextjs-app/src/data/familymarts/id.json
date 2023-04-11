@@ -1,9 +1,0 @@
-title>
-<meta name="viewport" content="initial-scale=1">
-<meta name="format-detection" content="telephone=no,address=no,email=no">
-<link rel="icon" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="stylesheet" href="default.css" ,="" type="text/css">
-<script>
-if (/iPhone|Android.+Mobile/.test(navigator.userAgent))
-{ document.write("<style>h1 {font-size:150%} table.t th,td {padding:1px 2px;font-size:80%}</style>"); }
