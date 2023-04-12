@@ -30,19 +30,33 @@ const handler: NextApiHandler = async (req, res) => {
     今までは fs.writeFileSync("./src/libs/html/sample/sample.html", html);
     で一旦ファイルに保存してたけど、このファイルの中で操作をしてみよう!
      */
-
+    let ids: string[] = []
+    const num=1;
+    while(num>0){
     const tag = "店</a></td><td>";
     const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　
     const html2 = html.slice(index + tag.length); //
     const index2 = html2.indexOf("</td>");
-    const json = html2.slice(0, index2);
+    const deta = html2.slice(0, index2);
+
+    ids.push(deta);
+     let num =+1;
+    }
+    // for (let i=0;i<deta.)
+
     
-    const id = JSON.parse(json);
-    // for (let i=0;i<id.)
-
    
+    // const familymartID: FamilymartID = {
+    //   id: deta.id; 
+    // }
+    // interface FamilymartID{
+      
+    //     id: string; 
+    // }
 
-    fs.writeFileSync("./src/data/familymarts/id_.ts",id);
+
+
+    // fs.writeFileSync("./src/libs/html/familymart/id.html",JSON.stringify(ids));
 
 
 
