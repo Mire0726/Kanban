@@ -31,17 +31,19 @@ const handler: NextApiHandler = async (req, res) => {
     で一旦ファイルに保存してたけど、このファイルの中で操作をしてみよう!
      */
     let ids: string[] = []
-    const num=1;
-    while(num>0){
+    let isFinish=false;
+
+    while(!isFinish){
     const tag = "店</a></td><td>";
-    const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　
-    const html2 = html.slice(index + tag.length); //
-    const index2 = html2.indexOf("</td>");
-    const deta = html2.slice(0, index2);
+    const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　①
+    const html2 = html.slice(index + tag.length); //②
+    const index2 = html2.indexOf("</td>"); //③
+    const deta = html2.slice(0, index2); //④
 
     ids.push(deta);
-     let num =+1;
+     
     }
+
     // for (let i=0;i<deta.)
 
     
@@ -54,14 +56,14 @@ const handler: NextApiHandler = async (req, res) => {
     //     id: string; 
     // }
 
+console.log(ids);
 
-
-    // fs.writeFileSync("./src/libs/html/familymart/id.html",JSON.stringify(ids));
-
-
+    fs.writeFileSync("./src/libs/html/familymart/id.html",JSON.stringify(ids));
+    
 
     await browser.close();
     res.status(200).send("OK");
+
   } catch (e: any) {
     res.status(400).send(`error:${e.message}`);
   }
