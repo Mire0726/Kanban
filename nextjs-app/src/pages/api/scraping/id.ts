@@ -24,24 +24,30 @@ const handler: NextApiHandler = async (req, res) => {
     const page = await browser.newPage();
     await page.goto(url);
     // ここで上記urlのhtmlを取得できるよ!
-    const html = await page.content();
+    let html = await page.content();
 
  /* でこのhtmlは ./src/libs/html/sample.htmlに格納されているような形のhtmlになってる
     今までは fs.writeFileSync("./src/libs/html/sample/sample.html", html);
     で一旦ファイルに保存してたけど、このファイルの中で操作をしてみよう!
      */
-    let ids: string[] = []
+    let ids = [];
     let isFinish=false;
 
-    while(!isFinish){
     const tag = "店</a></td><td>";
+
+    while(!isFinish){
+    
     const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　①
     const html2 = html.slice(index + tag.length); //②
     const index2 = html2.indexOf("</td>"); //③
     const deta = html2.slice(0, index2); //④
-
     ids.push(deta);
-     
+
+    if (index2 === -1){
+      isFinish=false;
+    }
+    html=html.slice();
+    
     }
 
     // for (let i=0;i<deta.)
