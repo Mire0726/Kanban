@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69218",
+      
+        "name": "ファミリーマート 大手町リハビリテーション棟／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県北九州市小倉北区大手町１４番１８号",
+        "postalCode": "8030814",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.8751676551312,
+        "longitude": 130.869987570693
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69218",
+      "telephone": "093-562-0205",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:30",
+            "closes": "16:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

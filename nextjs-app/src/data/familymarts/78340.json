@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78340",
+      
+        "name": "ファミリーマート 銘品蔵黒崎駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県北九州市八幡西区黒崎３丁目１５－１",
+        "postalCode": "8060021",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.8670067194983,
+        "longitude": 130.766449545216
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78340",
+      "telephone": "093-644-1701",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

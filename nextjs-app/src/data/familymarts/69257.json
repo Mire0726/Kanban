@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69257",
+      
+        "name": "ファミリーマート シグナスファミリー／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "鳥取県倉吉市福庭８５４",
+        "postalCode": "6828555",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.4556098195861,
+        "longitude": 133.858972563979
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69257",
+      "telephone": "0858-26-3250",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "9:00",
+            "closes": "17:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

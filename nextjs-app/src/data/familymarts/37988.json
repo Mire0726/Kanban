@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37988",
+      
+        "name": "ファミリーマート 近商ストア西大寺店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "奈良県奈良市西大寺国見町１丁目１－１２７",
+        "postalCode": "6310823",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6928870188918,
+        "longitude": 135.78359484675
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37988",
+      "telephone": "",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "9:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": "日祝　９時から２１時"
+        }
+      ]
+    }
+    

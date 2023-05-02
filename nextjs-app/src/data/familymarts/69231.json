@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69231",
+      
+        "name": "ファミリーマート 日本年金機構本部／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都杉並区高井戸西３丁目５－２４",
+        "postalCode": "1680071",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6891273727269,
+        "longitude": 139.614310835635
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69231",
+      "telephone": "03-5336-1271",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "19:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

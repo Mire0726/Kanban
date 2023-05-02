@@ -7,18 +7,13 @@ import * as fs from "fs";
  * @param res HTTP responce
  */
 
-const handler: NextApiHandler = async (req, res) => {
+const handler_id: NextApiHandler = async (req, res) => {
   try {
-
-    const url = `https://wxh.jp/famima/00_all.html`; // <- id取得できるWebサイト
+    const url = "https://wxh.jp/famima/00_all.html";
 
     if (!url) {
-      /* このプログラムの場合、urlは必ず存在するからこのif文は実行されないけど、
-      urlが存在しないみたいな場合の時のために throw new Error("xxx") でエラーを出すようにする!
-      これを例外処理(エラーハンドリング)と言います!*/
       throw new Error("no url");
     }
-    
     // pupeteerを使います
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -26,53 +21,31 @@ const handler: NextApiHandler = async (req, res) => {
     // ここで上記urlのhtmlを取得できるよ!
     let html = await page.content();
 
- /* でこのhtmlは ./src/libs/html/sample.htmlに格納されているような形のhtmlになってる
-    今までは fs.writeFileSync("./src/libs/html/sample/sample.html", html);
-    で一旦ファイルに保存してたけど、このファイルの中で操作をしてみよう!
-     */
-    let ids = [];
-    let isFinish=false;
+    const tag = `店</a></td><td>`;
 
-    const tag = "店</a></td><td>";
+    var famimaIds = [];
+    let continueFlag = true;
 
-    while(!isFinish){
-    
-    const index = html.indexOf(tag); //html.indexOf(店</a></td><td>)　＝　①
-    const html2 = html.slice(index + tag.length); //②
-    const index2 = html2.indexOf("</td>"); //③
-    const deta = html2.slice(0, index2); //④
-    ids.push(deta);
+    while (continueFlag) {
+      const index = html.indexOf(tag);
+      const html2 = html.slice(index + tag.length);
+      const index2 = html2.indexOf(`</td>`);
+      const id = html2.slice(0, index2);
 
-    if (index2 === -1){
-      isFinish=false;
+      famimaIds.push(id);
+
+      if (index2 === -1) {
+        continueFlag = false;
+      }
+      html = html2.slice(index2 + tag.length);
     }
-    html=html.slice();
-    
-    }
-
-    // for (let i=0;i<deta.)
-
-    
-   
-    // const familymartID: FamilymartID = {
-    //   id: deta.id; 
-    // }
-    // interface FamilymartID{
-      
-    //     id: string; 
-    // }
-
-console.log(ids);
-
-    fs.writeFileSync("./src/libs/html/familymart/id.html",JSON.stringify(ids));
-    
 
     await browser.close();
-    res.status(200).send("OK");
-
+    res.status(200).send(famimaIds);
   } catch (e: any) {
     res.status(400).send(`error:${e.message}`);
   }
 };
 
-export default handler;
+
+export default handler_id;

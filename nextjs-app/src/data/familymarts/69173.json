@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69173",
+      
+        "name": "ファミリーマート 新鎌ケ谷駅構内／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "千葉県鎌ケ谷市新鎌ケ谷一丁目１３番１号",
+        "postalCode": "2730107",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7795714095781,
+        "longitude": 139.99850276419
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69173",
+      "telephone": "047-441-6006",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "21:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

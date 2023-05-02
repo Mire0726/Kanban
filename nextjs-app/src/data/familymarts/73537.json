@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73537",
+      
+        "name": "ファミリーマート 鹿児島徳洲会病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "鹿児島県鹿児島市南栄五丁目１０番地５１",
+        "postalCode": "8910122",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 31.5077887026308,
+        "longitude": 130.516821910882
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73537",
+      "telephone": "099-263-3555",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": "平日・土曜７時から１９時まで　日曜・祝日は７時から１８時まで営業"
+        }
+      ]
+    }
+    

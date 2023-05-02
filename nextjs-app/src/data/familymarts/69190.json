@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69190",
+      
+        "name": "ファミリーマート 日和サービス日立ハイテク／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "茨城県ひたちなか市新光町５５２番５３日立ハイテク那珂地区マリンサ",
+        "postalCode": "3120005",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.3810504256633,
+        "longitude": 140.59107585538
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69190",
+      "telephone": "029-265-1266",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "19:45"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

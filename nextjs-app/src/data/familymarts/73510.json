@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73510",
+      
+        "name": "ファミリーマート 南風病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "鹿児島県鹿児島市長田町１４番３号",
+        "postalCode": "8920854",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 31.6038991276709,
+        "longitude": 130.557187133015
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73510",
+      "telephone": "099-216-2180",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": "土日・祝日は７時から１８時まで営業"
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69198",
+      
+        "name": "ファミリーマート 郡山市役所／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福島県郡山市朝日一丁目２３番７号",
+        "postalCode": "9638601",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.4001803637935,
+        "longitude": 140.358923207827
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69198",
+      "telephone": "024-936-4050",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "18:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69154",
+      
+        "name": "ファミリーマート 広島国際大学／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "広島県東広島市黒瀬学園台５５５－３６",
+        "postalCode": "7392631",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.3133815208979,
+        "longitude": 132.686946495579
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=69154",
+      "telephone": "0823-81-2663",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "9:00",
+            "closes": "17:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

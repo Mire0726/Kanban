@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=16643",
+      
+        "name": "ファミマハレザ池袋店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都豊島区東池袋１丁目１８－１",
+        "postalCode": "1700013",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7323105185118,
+        "longitude": 139.715338456939
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=16643",
+      "telephone": "03-5957-0939",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": "店舗休日　土日祝　ビルへの入館制限があり、一般のお客様は平日の８時から２０時の間ご利用頂けます"
+        }
+      ]
+    }
+    

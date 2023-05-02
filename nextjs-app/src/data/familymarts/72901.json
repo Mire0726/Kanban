@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72901",
+      
+        "name": "ファミリーマート 那覇第２地方合同庁舎／Ｓ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県那覇市おもろまち２丁目１－１",
+        "postalCode": "9000006",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.2276641115619,
+        "longitude": 127.691170711217
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72901",
+      "telephone": "098-860-6135",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": "土日祝日休業"
+        }
+      ]
+    }
+    
