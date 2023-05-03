@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71283",
+      
+        "name": "ファミリーマート ＴＳＵＴＡＹＡ植木店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "熊本県熊本市北区植木町舞尾５４５－２",
+        "postalCode": "8610134",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.9012227012341,
+        "longitude": 130.690929288318
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71283",
+      "telephone": "096-275-5656",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "1:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

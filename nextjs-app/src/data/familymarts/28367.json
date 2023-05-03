@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28367",
+      
+        "name": "ファミリーマート 日進駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県日進市栄二丁目１７０８番地",
+        "postalCode": "4700113",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.1183476026835,
+        "longitude": 137.048318221545
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28367",
+      "telephone": "0561-75-6502",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:30",
+            "closes": "23:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
