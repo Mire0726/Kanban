@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=61898",
+      
+        "name": "ファミリーマート 岩手県立磐井病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "岩手県一関市狐禅寺字大平１７",
+        "postalCode": "0290192",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 38.936021265958,
+        "longitude": 141.170535083718
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=61898",
+      "telephone": "019-126-0337",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
