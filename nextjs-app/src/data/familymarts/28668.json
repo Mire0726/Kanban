@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28668",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 豊田美里四丁目店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "愛知県豊田市美里四丁目３番地７２",
+        "postalCode": "4710805",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 35.0793541465322,
+        "longitude": 137.184176734141
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28668",
+      "telephone": "0565-87-3611",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",

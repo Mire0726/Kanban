@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25141",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 札幌月寒東３条１７丁目店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "北海道札幌市豊平区月寒東３条 １７丁目１番１号",
+        "postalCode": "0620053",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 43.0208196829018,
+        "longitude": 141.418402406878
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25141",
+      "telephone": "011-850-0372",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",

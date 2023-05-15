@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25634",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 石巻千石町店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "宮城県石巻市千石町８番２号",
+        "postalCode": "9860827",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 38.4350822538251,
+        "longitude": 141.308341705616
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25634",
+      "telephone": "0225-92-5358",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",

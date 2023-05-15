@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30189",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 金沢高畠一丁目店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "石川県金沢市高畠一丁目３２３番地",
+        "postalCode": "9218001",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 36.5712155823306,
+        "longitude": 136.612036554496
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30189",
+      "telephone": "076-292-4003",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",

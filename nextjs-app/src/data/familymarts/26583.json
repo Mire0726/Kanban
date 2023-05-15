@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=26583",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 国立北一丁目店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "東京都国立市北１丁目４－７",
+        "postalCode": "1860001",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 35.7005982398153,
+        "longitude": 139.447944124043
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=26583",
+      "telephone": "042-501-0056",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",

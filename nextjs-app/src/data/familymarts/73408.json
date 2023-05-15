@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73408",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート ＪＲ延岡駅店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "宮崎県延岡市幸町三丁目 ４４２０番地",
+        "postalCode": "8820053",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 32.5899561396164,
+        "longitude": 131.672483103978
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73408",
+      "telephone": "0982-23-1301",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -36,8 +36,8 @@
           ],
           
           
-            "opens": "0:00",
-            "closes": "23:59"
+            "opens": "6:30",
+            "closes": "23:00"
           
         },
         {

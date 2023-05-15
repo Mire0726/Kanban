@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=61906",
       
-        "name": "ファミリーマート 佐久平駅前店",
+        "name": "ファミリーマート 石巻赤十字病院店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "長野県佐久市佐久平駅東５番８",
-        "postalCode": "3850028",
+        "address": "宮城県石巻市蛇田字西道下７１番地石巻赤十字病院内１Ｆ",
+        "postalCode": "9868522",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 36.2782543238853,
-        "longitude": 138.467285967629
+        "latitude": 38.4592971617772,
+        "longitude": 141.279601977406
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27400",
-      "telephone": "0267-66-3136",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=61906",
+      "telephone": "0225-21-1688",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -36,8 +36,8 @@
           ],
           
           
-            "opens": "0:00",
-            "closes": "23:59"
+            "opens": "7:00",
+            "closes": "23:00"
           
         },
         {
