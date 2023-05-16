@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72333",
+      
+        "name": "ファミリーマート 小禄南小学校前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県那覇市小禄４丁目１６番１号",
+        "postalCode": "9010152",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.1912376806148,
+        "longitude": 127.672441943943
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72333",
+      "telephone": "098-859-7588",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "２０２３年３月より日曜のみ時短営業（５時３０分－２３時）"
+        }
+      ]
+    }
+    

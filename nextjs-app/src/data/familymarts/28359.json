@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28359",
+      
+        "name": "ファミリーマート 豊橋石巻本町東店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県豊橋市石巻本町字東木ノ根 ５３番",
+        "postalCode": "4411115",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.804809216056,
+        "longitude": 137.453481010566
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28359",
+      "telephone": "0532-87-2010",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "23:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
