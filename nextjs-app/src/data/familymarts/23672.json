@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23672",
+      
+        "name": "ファミリーマート 那須塩原一区町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "栃木県那須塩原市一区町 ３１５－２３２",
+        "postalCode": "3292732",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.8520325718864,
+        "longitude": 139.991256982597
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23672",
+      "telephone": "0287-39-0088",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

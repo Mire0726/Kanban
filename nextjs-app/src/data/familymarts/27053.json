@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27053",
+      
+        "name": "ファミリーマート チネチッタ入口店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "神奈川県川崎市川崎区小川町２番地１１",
+        "postalCode": "2100023",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.5285540200993,
+        "longitude": 139.698602229192
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27053",
+      "telephone": "044-221-3104",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

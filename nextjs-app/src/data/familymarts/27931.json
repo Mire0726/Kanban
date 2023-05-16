@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27931",
+      
+        "name": "ファミリーマート 富士宮中島町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "静岡県富士宮市中島町３６４番地の１",
+        "postalCode": "4180045",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.2327394038987,
+        "longitude": 138.596159407369
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27931",
+      "telephone": "0544-25-7868",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

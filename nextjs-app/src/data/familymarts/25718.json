@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25718",
+      
+        "name": "ファミリーマート 鶴岡スタジアム前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "山形県鶴岡市小真木原町５－５４",
+        "postalCode": "9970825",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 38.7172659868559,
+        "longitude": 139.815014731422
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25718",
+      "telephone": "0235-28-3738",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

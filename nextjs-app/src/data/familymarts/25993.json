@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25993",
+      
+        "name": "ファミリーマート 神栖深芝南店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "茨城県神栖市深芝南１丁目１５番９",
+        "postalCode": "3140142",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.9094129043654,
+        "longitude": 140.650160665814
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=25993",
+      "telephone": "0299-95-5271",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

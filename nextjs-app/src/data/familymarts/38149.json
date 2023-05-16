@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=38149",
+      
+        "name": "ファミリーマート 窪川古市町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "高知県高岡郡四万十町古市町８番 １３号",
+        "postalCode": "7860007",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.2077497180038,
+        "longitude": 133.141396664654
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=38149",
+      "telephone": "0880-22-3722",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

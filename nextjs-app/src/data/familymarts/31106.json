@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31106",
+      
+        "name": "ファミリーマート 宝塚栄町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "兵庫県宝塚市栄町三丁目８番３号",
+        "postalCode": "6650845",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.813893264123,
+        "longitude": 135.336367416638
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31106",
+      "telephone": "0797-85-3063",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "日曜のみ時短営業（日曜　１：００閉店、月曜　５：００開店）"
+        }
+      ]
+    }
+    

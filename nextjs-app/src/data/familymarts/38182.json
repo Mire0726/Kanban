@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=38182",
+      
+        "name": "ファミリーマート 川西郷の駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "広島県三次市三若町２３９６番地",
+        "postalCode": "7280621",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.7192577477143,
+        "longitude": 132.895312501691
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=38182",
+      "telephone": "0824-69-2808",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

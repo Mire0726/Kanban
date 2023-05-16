@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=80230",
+      
+        "name": "ファミリーマート 市立室蘭総合病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "北海道室蘭市山手町３丁目８番１号市立室蘭総合病院内",
+        "postalCode": "0510012",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 42.3138295779038,
+        "longitude": 140.976141690824
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=80230",
+      "telephone": "0143-25-6763",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

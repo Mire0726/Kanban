@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31563",
+      
+        "name": "ファミリーマート 広島落合店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "広島県広島市安佐北区落合二丁目 ２０－１２",
+        "postalCode": "7391731",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.4800775841407,
+        "longitude": 132.50908059137
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31563",
+      "telephone": "082-841-6530",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

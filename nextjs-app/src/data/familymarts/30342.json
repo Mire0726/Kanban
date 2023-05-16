@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30342",
+      
+        "name": "ファミリーマート 勝山元町一丁目店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福井県勝山市元町一丁目 ９番１２号６",
+        "postalCode": "9110804",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.0605032848829,
+        "longitude": 136.501913216779
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30342",
+      "telephone": "0779-88-9008",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71217",
+      
+        "name": "ファミリーマート 筑後中学校前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県筑後市大字水田９９８番１",
+        "postalCode": "8330027",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.1928180253991,
+        "longitude": 130.491321438553
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71217",
+      "telephone": "0942-42-5033",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "日曜のみ時短営業（日曜２３：００閉店、月曜６：００開店）"
+        }
+      ]
+    }
+    

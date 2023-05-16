@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30890",
+      
+        "name": "ファミリーマート 豊中上新田四丁目店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府豊中市上新田４丁目１８－４",
+        "postalCode": "5600085",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.7986077958627,
+        "longitude": 135.502208347545
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30890",
+      "telephone": "06-6836-6550",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

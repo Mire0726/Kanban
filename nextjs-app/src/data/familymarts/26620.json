@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=26620",
+      
+        "name": "ファミリーマート 六義園店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都文京区本駒込６－１５－２０",
+        "postalCode": "1130021",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7326730632857,
+        "longitude": 139.748746665724
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=26620",
+      "telephone": "03-5981-6720",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31146",
+      
+        "name": "ファミリーマート 垂水区役所前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "兵庫県神戸市垂水区日向２丁目１番１号 勝見ビル１Ｆ",
+        "postalCode": "6550893",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6309509599485,
+        "longitude": 135.05745800371
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31146",
+      "telephone": "078-707-5115",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "日曜のみ時短営業（日曜２３：００閉店、月曜７：００開店）"
+        }
+      ]
+    }
+    

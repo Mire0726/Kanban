@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27419",
+      
+        "name": "ファミリーマート 須坂駅西口店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "長野県須坂市大字塩川字寺沢 ３９４番地２",
+        "postalCode": "3820052",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.6571169180841,
+        "longitude": 138.302268226812
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=27419",
+      "telephone": "026-242-3515",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

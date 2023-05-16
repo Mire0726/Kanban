@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37555",
+      
+        "name": "ファミリーマート 富田林甲田一丁目店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府富田林市甲田１丁目８－１０",
+        "postalCode": "5840036",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.4975926064474,
+        "longitude": 135.594598535395
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37555",
+      "telephone": "0721-23-8081",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "日曜のみ時短営業（日曜２３：００閉店、月曜６：００開店）"
+        }
+      ]
+    }
+    

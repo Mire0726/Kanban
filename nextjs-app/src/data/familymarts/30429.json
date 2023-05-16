@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30429",
+      
+        "name": "ファミリーマート 草津大路一丁目店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "滋賀県草津市大路一丁目１０番３号",
+        "postalCode": "5250032",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.0214080036198,
+        "longitude": 135.96241686842
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30429",
+      "telephone": "077-561-3121",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "日曜のみ時短営業（日曜２３：００閉店、月曜６：００開店）"
+        }
+      ]
+    }
+    

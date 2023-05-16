@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=24177",
+      
+        "name": "ファミリーマート ポンテポルタ千住店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都足立区千住 橋戸町１－１３ ポンテポルタ千住",
+        "postalCode": "1200038",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7420788849853,
+        "longitude": 139.796135297033
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=24177",
+      "telephone": "03-5244-6019",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": "１月１日休店"
+        }
+      ]
+    }
+    

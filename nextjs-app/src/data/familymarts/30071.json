@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30071",
+      
+        "name": "ファミリーマート 砺波安川店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "富山県砺波市安川２３５番地",
+        "postalCode": "9391438",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.6268486182453,
+        "longitude": 137.012009775362
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=30071",
+      "telephone": "0763-37-0387",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

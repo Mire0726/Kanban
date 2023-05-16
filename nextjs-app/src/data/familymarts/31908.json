@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31908",
+      
+        "name": "ファミリーマート 久留米御井町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県久留米市御井町 ２５２４番地２",
+        "postalCode": "8390851",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.297437956846,
+        "longitude": 130.55553628816
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=31908",
+      "telephone": "0942-41-1788",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

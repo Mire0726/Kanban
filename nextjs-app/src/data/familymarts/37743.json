@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37743",
+      
+        "name": "ファミリーマート 天保山マーケットプレース店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府大阪市港区海岸通 １丁目１－１０",
+        "postalCode": "5520022",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6559458076598,
+        "longitude": 135.430793847575
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37743",
+      "telephone": "06-6576-5727",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "10:00",
+            "closes": "20:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

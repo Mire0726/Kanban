@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28306",
+      
+        "name": "ファミリーマート 東山線藤が丘駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県名古屋市名東区藤が丘 １６３番地",
+        "postalCode": "4650032",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.1826362558684,
+        "longitude": 137.021384498083
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=28306",
+      "telephone": "052-726-9919",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

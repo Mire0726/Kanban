@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=29150",
+      
+        "name": "ファミリーマート 名古屋オズガーデン店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県名古屋市北区大曽根三丁目 十二番三十二号",
+        "postalCode": "4620825",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.1916738063642,
+        "longitude": 136.936492132167
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=29150",
+      "telephone": "052-919-6017",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
