@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78285",
+      
+        "name": "ファミリーマート 博多駅博多口店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県福岡市博多区博多駅中央街 １－１",
+        "postalCode": "8120012",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.5899643049368,
+        "longitude": 130.420249053755
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78285",
+      "telephone": "092-472-1717",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

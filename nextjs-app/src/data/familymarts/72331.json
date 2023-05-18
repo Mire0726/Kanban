@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72331",
+      
+        "name": "ファミリーマート 久米島イーフビーチ前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県島尻郡久米島町謝名堂 ５８３－１",
+        "postalCode": "9013107",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.3320625125369,
+        "longitude": 126.807663278501
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72331",
+      "telephone": "098-896-8411",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "２０２０年９月より時短営業（日曜のみ７：００－２４：００）試用期間２０２０年１１月３０日まで"
+        }
+      ]
+    }
+    

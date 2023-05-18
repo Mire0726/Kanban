@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72324",
+      
+        "name": "ファミリーマート 大里目取真店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県南城市大里字稲嶺１９０１－５",
+        "postalCode": "9011204",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.1628079043805,
+        "longitude": 127.7401626289
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72324",
+      "telephone": "098-852-7811",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": "２０２０年９月より時短営業（毎日）　試用期間２０２０年１１月３０日まで"
+        }
+      ]
+    }
+    

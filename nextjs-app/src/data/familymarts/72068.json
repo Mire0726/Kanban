@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72068",
+      
+        "name": "ファミリーマート 中頭病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県沖縄市字登川６１０番地",
+        "postalCode": "9042142",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.3675314950997,
+        "longitude": 127.825355126885
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72068",
+      "telephone": "098-921-0025",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

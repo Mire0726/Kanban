@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23841",
+      
+        "name": "ファミリーマート 鶴瀬駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "埼玉県富士見市鶴瀬東１丁目",
+        "postalCode": "3540024",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.8458393043034,
+        "longitude": 139.539518830968
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23841",
+      "telephone": "049-268-1077",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

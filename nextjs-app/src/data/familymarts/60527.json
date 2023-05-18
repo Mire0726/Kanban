@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=60527",
+      
+        "name": "ファミリーマート 長岡中央綜合病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "新潟県長岡市川崎町２０４１番地",
+        "postalCode": "9408653",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 37.4509520801823,
+        "longitude": 138.87884278929
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=60527",
+      "telephone": "0258-38-6800",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

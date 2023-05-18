@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37434",
+      
+        "name": "ファミリーマート 神戸ポートピアホテル店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "兵庫県神戸市中央区港島中町六丁目１０番地１",
+        "postalCode": "6500046",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.665646978256,
+        "longitude": 135.213716428951
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37434",
+      "telephone": "078-304-6688",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "1:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

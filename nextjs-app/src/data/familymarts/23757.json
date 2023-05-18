@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23757",
+      
+        "name": "ファミマ！！秋葉原ＵＤＸ店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都千代田区外神田４丁目 １４－１秋葉原ＵＤＸ ５Ｆ",
+        "postalCode": "1010021",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7000359707046,
+        "longitude": 139.772593188124
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23757",
+      "telephone": "03-5289-3345",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": "土日祝日：７：００から１８：００"
+        }
+      ]
+    }
+    
