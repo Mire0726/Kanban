@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55836",
+      
+        "name": "ファミリーマート 名鉄病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県名古屋市西区栄生２丁目 ２６－１１",
+        "postalCode": "4510052",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.1846934359127,
+        "longitude": 136.872539764776
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55836",
+      "telephone": "052-533-1053",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": "土日・祝日の営業時間は、７時から２０時です"
+        }
+      ]
+    }
+    
