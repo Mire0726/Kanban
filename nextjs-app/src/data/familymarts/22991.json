@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=22991",
+      
+        "name": "ファミリーマート 日立神奈川事業所店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "神奈川県秦野市堀山下１",
+        "postalCode": "2591304",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.3789212236734,
+        "longitude": 139.194732965181
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=22991",
+      "telephone": "0463-89-0625",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

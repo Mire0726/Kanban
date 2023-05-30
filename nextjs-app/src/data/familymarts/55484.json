@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55484",
+      
+        "name": "ファミリーマート 豊田市役所店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "愛知県豊田市西町三丁目６０番地 新東庁舎２Ｆ",
+        "postalCode": "4710025",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.0832902408091,
+        "longitude": 137.156426857498
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55484",
+      "telephone": "0565-36-5722",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "18:30"
+          
+        },
+        {
+          "description": "休業日　豊田市役所休庁日（土日祝日、１２月２９日から１月３日）に準ずる　※臨時開庁日は休業となります"
+        }
+      ]
+    }
+    

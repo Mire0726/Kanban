@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55565",
+      
+        "name": "ファミリーマート 近鉄賢島駅改札外店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "三重県志摩市阿児町神明字賢島 ７４７－１７",
+        "postalCode": "5170502",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.3084152211543,
+        "longitude": 136.818608593474
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55565",
+      "telephone": "0599-44-0840",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "18:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

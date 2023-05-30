@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37233",
+      
+        "name": "ファミリーマート ＡＢＣ－ＭＡＲＴ梅田ビル店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府大阪市北区茶屋町１－２７ ＡＢＣ－ＭＡＲＴ梅田ビルＢ２階",
+        "postalCode": "5300013",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.7045948055875,
+        "longitude": 135.499576895078
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37233",
+      "telephone": "06-6292-4121",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:30",
+            "closes": "22:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

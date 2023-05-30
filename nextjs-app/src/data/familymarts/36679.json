@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36679",
+      
+        "name": "ファミリーマート 近鉄日本橋駅改札内中央店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府大阪市中央区日本橋１丁目 １８－１４",
+        "postalCode": "5420073",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6670709353252,
+        "longitude": 135.506227070639
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36679",
+      "telephone": "06-6214-5013",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "22:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

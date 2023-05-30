@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72014",
+      
+        "name": "ファミリーマート あげな小学校前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県うるま市安慶名三丁目 １７－３３",
+        "postalCode": "9042214",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 26.3740222270263,
+        "longitude": 127.84975380172
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72014",
+      "telephone": "098-982-4115",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": "２０２０年９月より時短営業（毎日）　試用期間２０２０年１１月末まで⇒１２月から時間変更"
+        }
+      ]
+    }
+    

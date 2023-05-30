@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23021",
+      
+        "name": "ファミリーマート 富士駐屯地店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "静岡県駿東郡小山町須走 ４８１－２７",
+        "postalCode": "4101431",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.3548639943237,
+        "longitude": 138.86253966129
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23021",
+      "telephone": "0550-75-6175",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

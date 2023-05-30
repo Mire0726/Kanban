@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72505",
+      
+        "name": "ファミリーマート 石垣登野城仲道店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県石垣市字登野城６１８番",
+        "postalCode": "9070004",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 24.337333725117,
+        "longitude": 124.165879527018
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72505",
+      "telephone": "0980-88-1737",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "0:00",
+            "closes": "23:59"
+          
+        },
+        {
+          "description": "２０２０年９月より時短営業（日曜のみ６：００－２４：００）試用期間２０２０年１１月３０日まで"
+        }
+      ]
+    }
+    

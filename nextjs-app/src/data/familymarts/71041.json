@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71041",
+      
+        "name": "ファミリーマート 北熊本駐屯地店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "熊本県熊本市北区八景水谷二丁目 １７－１",
+        "postalCode": "8618064",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.8443114339265,
+        "longitude": 130.727879840187
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=71041",
+      "telephone": "096-341-1883",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=20853",
+      
+        "name": "ファミリーマート 大崎ブライトタワー店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都品川区北品川５丁目６ー１",
+        "postalCode": "1410001",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6216496148884,
+        "longitude": 139.730224316257
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=20853",
+      "telephone": "03-5793-3056",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "23:00"
+          
+        },
+        {
+          "description": "土曜日７時から２３時営業　日曜祝日は休み　ビルの都合で店休する場合があります"
+        }
+      ]
+    }
+    

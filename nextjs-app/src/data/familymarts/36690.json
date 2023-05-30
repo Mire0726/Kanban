@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36690",
+      
+        "name": "ファミマあべのハルカス店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府大阪市阿倍野区阿倍野筋１－１－４３",
+        "postalCode": "5450052",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6461752945179,
+        "longitude": 135.513336442388
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36690",
+      "telephone": "06-4399-9208",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

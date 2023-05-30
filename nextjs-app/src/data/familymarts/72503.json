@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72503",
+      
+        "name": "ファミリーマート 石垣７３０記念碑前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "沖縄県石垣市字大川２４５番地",
+        "postalCode": "9070022",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 24.3387194337494,
+        "longitude": 124.15768414383
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=72503",
+      "telephone": "0980-88-1388",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": "２０２０年９月より時短営業（毎日）試用期間２０２０年１１月３０日まで"
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36641",
+      
+        "name": "ファミリーマート 近鉄生駒駅改札内橋上店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "奈良県生駒市元町１丁目１－１",
+        "postalCode": "6300257",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6931155026407,
+        "longitude": 135.698188929113
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36641",
+      "telephone": "0743-72-1611",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "22:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

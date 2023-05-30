@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=16117",
+      
+        "name": "ファミリーマート がん研有明病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都江東区有明３丁目８－３１",
+        "postalCode": "1350063",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6340084165874,
+        "longitude": 139.794550404951
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=16117",
+      "telephone": "03-3599-3226",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

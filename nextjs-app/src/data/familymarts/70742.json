@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=70742",
+      
+        "name": "ファミリーマート 水巻中央店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県遠賀郡水巻町吉田西１丁目 ７番３号",
+        "postalCode": "8070046",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.8511502699407,
+        "longitude": 130.700865722031
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=70742",
+      "telephone": "093-203-3191",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "23:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

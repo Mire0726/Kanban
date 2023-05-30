@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=80172",
+      
+        "name": "ファミリーマート 勤医協中央病院店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "北海道札幌市東区東苗穂５条１丁目９－１",
+        "postalCode": "0070805",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 43.0913818682586,
+        "longitude": 141.403101428451
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=80172",
+      "telephone": "011-784-5099",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": "土日祝は７時３０分から１７時の時短営業"
+        }
+      ]
+    }
+    

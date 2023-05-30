@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37095",
+      
+        "name": "ファミリーマート 同志社大学店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "京都府京都市上京区新北小路町 ６０３",
+        "postalCode": "6028580",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.0297145941731,
+        "longitude": 135.76084222652
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=37095",
+      "telephone": "075-253-1258",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "10:00",
+            "closes": "18:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36632",
+      
+        "name": "ファミリーマート 近鉄西大寺駅３番ホーム店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "奈良県奈良市西大寺国見町１丁目１－１",
+        "postalCode": "6310823",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.6935749371894,
+        "longitude": 135.783129853691
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36632",
+      "telephone": "0742-32-2791",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "22:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

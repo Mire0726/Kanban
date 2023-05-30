@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55568",
+      
+        "name": "ファミリーマート 近鉄鵜方駅改札外橋上店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "三重県志摩市阿児町鵜方 １６７０－２",
+        "postalCode": "5170501",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.3293921070681,
+        "longitude": 136.826029011297
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55568",
+      "telephone": "0599-44-1255",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "18:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

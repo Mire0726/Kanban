@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23154",
+      
+        "name": "ファミリーマート 亜細亜大学店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都武蔵野市境五丁目２４番 １０号",
+        "postalCode": "1800022",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7055852105623,
+        "longitude": 139.534056742834
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23154",
+      "telephone": "0422-50-9019",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:30",
+            "closes": "18:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

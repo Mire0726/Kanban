@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55563",
+      
+        "name": "ファミリーマート 近鉄宇治山田駅改札外店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "三重県伊勢市岩渕２－１－１３",
+        "postalCode": "5160037",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.4883701415683,
+        "longitude": 136.713756015046
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55563",
+      "telephone": "0596-20-5188",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

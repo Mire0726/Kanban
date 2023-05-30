@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36636",
+      
+        "name": "ファミリーマート 近鉄五位堂駅改札外橋上店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "奈良県香芝市瓦口２６８",
+        "postalCode": "6390225",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.5347817840673,
+        "longitude": 135.717994575025
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36636",
+      "telephone": "0745-71-3239",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:45",
+            "closes": "23:15"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

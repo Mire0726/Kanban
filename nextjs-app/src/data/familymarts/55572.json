@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55572",
+      
+        "name": "ファミリーマート 近鉄四日市駅１番ホーム店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "三重県四日市市安島１丁目１－５６",
+        "postalCode": "5100075",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.9671232729816,
+        "longitude": 136.61867286659
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55572",
+      "telephone": "0120-788-089",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "21:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

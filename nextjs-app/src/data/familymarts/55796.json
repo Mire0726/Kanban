@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55796",
+      
+        "name": "ファミリーマート 岐阜基地店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "岐阜県各務原市那加官有地無番地",
+        "postalCode": "5048701",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.3904940634019,
+        "longitude": 136.8519329997
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=55796",
+      "telephone": "058-380-5019",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
