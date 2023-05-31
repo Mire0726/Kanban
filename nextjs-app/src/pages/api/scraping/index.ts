@@ -10,7 +10,7 @@ import { famimaIds } from "../../../libs/html/familymart/id";
 
 const handler: NextApiHandler = async (req, res) => {
   try {
-    for (let i = 6372; i < famimaIds.length; i++) {
+    for (let i = 11260; i < famimaIds.length; i++) {
       const famimaId = famimaIds[i]; // <- 七戸中野店
       const url = `https://as.chizumaru.com/famima/detailMap?account=famima&bid=${famimaId}`; // <- 七戸中野店のurl
 
@@ -20,6 +20,7 @@ const handler: NextApiHandler = async (req, res) => {
         これを例外処理(エラーハンドリング)と言います!*/
         throw new Error("no url");
       }
+      console.log(i);
 
       // pupeteerを使います
       const browser = await puppeteer.launch();

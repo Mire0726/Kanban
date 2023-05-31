@@ -2,26 +2,26 @@
     {
       "@context": "https://schema.org",
       "@type": "ConvenienceStore",
-      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=60447",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=70824",
       
-        "name": "あり いわき内郷御厩町店",
+        "name": "ファミリーマート 天草有明店",
       
       "image": [
         "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
        ],
       "address": {
         "@type": "PostalAddress",
-        "address": "福島県いわき市内郷御厩町川向 ７番地１",
-        "postalCode": "9738402",
+        "address": "熊本県天草市有明町大島子字沖ノ田２８８６番３",
+        "postalCode": "8617314",
         "addressCountry": "JP"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 37.0520525609254,
-        "longitude": 140.871947631767
+        "latitude": 32.4720819723082,
+        "longitude": 130.254108326438
       },
-      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=60447",
-      "telephone": "0246-45-3510",
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=70824",
+      "telephone": "0969-52-4811",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
