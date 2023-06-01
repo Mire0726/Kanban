@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77584",
+      
+        "name": "ファミリーマート 流通経済大学店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "茨城県龍ケ崎市平畑１２０",
+        "postalCode": "3010844",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.9173930316606,
+        "longitude": 140.191066425715
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77584",
+      "telephone": "0297-63-7066",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "18:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

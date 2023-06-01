@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78017",
+      
+        "name": "ファミリーマート ＪＲ門司駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県北九州市門司区中町２－１",
+        "postalCode": "8000039",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.9041346621757,
+        "longitude": 130.933269981309
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78017",
+      "telephone": "093-382-2610",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:30",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

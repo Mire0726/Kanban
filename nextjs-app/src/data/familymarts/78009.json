@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78009",
+      
+        "name": "ファミリーマート ＪＲ千早駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県福岡市東区千早４丁目 ９３－１",
+        "postalCode": "8130044",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.6491903210484,
+        "longitude": 130.440341657917
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78009",
+      "telephone": "092-663-5377",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:30",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": "２０２１年１０月１日から通常営業（５時半から２４時半）"
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77409",
+      
+        "name": "ファミリーマート 虎ノ門ツインビル店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都港区虎ノ門２丁目１０－１",
+        "postalCode": "1050001",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6674189800268,
+        "longitude": 139.745146969414
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77409",
+      "telephone": "03-5114-5450",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": "土・日・祝日は休み　年末年始等ビルの都合で店休する場合があります"
+        }
+      ]
+    }
+    

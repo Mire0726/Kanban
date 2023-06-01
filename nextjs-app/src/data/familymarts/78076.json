@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78076",
+      
+        "name": "ファミリーマート 熊本新市街店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "熊本県熊本市中央区新市街６－１３",
+        "postalCode": "8600803",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.7990969077031,
+        "longitude": 130.707132645205
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78076",
+      "telephone": "096-319-8113",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": "期間未定"
+        }
+      ]
+    }
+    

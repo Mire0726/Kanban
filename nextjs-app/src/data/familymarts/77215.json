@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77215",
+      
+        "name": "ファミリーマート 新宿野村ビル店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都新宿区西新宿１丁目２６－２",
+        "postalCode": "1630501",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.692724404046,
+        "longitude": 139.695379937288
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77215",
+      "telephone": "03-5909-7047",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": "年末年始等ビルの都合で店休する場合があります"
+        }
+      ]
+    }
+    

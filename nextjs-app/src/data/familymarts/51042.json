@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=51042",
+      
+        "name": "トモニー西武柳沢駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都西東京市保谷町 ３－１１－２４",
+        "postalCode": "2020015",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.7286000758901,
+        "longitude": 139.552778128281
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=51042",
+      "telephone": "042-452-1250",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:30",
+            "closes": "21:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

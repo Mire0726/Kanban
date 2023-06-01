@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=21012",
+      
+        "name": "ファミリーマート 日和サービス日立ハイテク店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "茨城県ひたちなか市市毛８８２番地株式会社日立ハイテク総合棟３Ｆ",
+        "postalCode": "3120033",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.4030316495671,
+        "longitude": 140.509496618298
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=21012",
+      "telephone": "029-354-1075",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77544",
+      
+        "name": "ファミリーマート 桜美林学園店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都町田市常盤町３７５８",
+        "postalCode": "1940213",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.5804643899794,
+        "longitude": 139.40790198128
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77544",
+      "telephone": "042-798-5038",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

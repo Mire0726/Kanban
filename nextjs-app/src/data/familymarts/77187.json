@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77187",
+      
+        "name": "ファミリーマート ソリッドスクエア店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "神奈川県川崎市幸区堀川町５８０ ソリッドスクエア東",
+        "postalCode": "2120013",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.5349533543757,
+        "longitude": 139.69967584536
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77187",
+      "telephone": "044-520-8514",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "22:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

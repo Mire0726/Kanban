@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78053",
+      
+        "name": "ファミリーマート 大分大学旦野原店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大分県大分市大字旦野原字大迫 ６８０番地１",
+        "postalCode": "8701124",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.1744635615169,
+        "longitude": 131.611866223489
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78053",
+      "telephone": "097-504-7331",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": "平日８時から２０時、土曜日８時から１９時、営業時間変更（期間未定）"
+        }
+      ]
+    }
+    

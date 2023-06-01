@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77487",
+      
+        "name": "ファミリーマート 多摩永山センター店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都多摩市諏訪２丁目５－１",
+        "postalCode": "2060024",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6285339963085,
+        "longitude": 139.450718211982
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77487",
+      "telephone": "042-355-8314",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77546",
+      
+        "name": "ファミリーマート 東海大学伊勢原キャンパス店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "神奈川県伊勢原市下糟屋１４３ 望星モール内",
+        "postalCode": "2591143",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.4072453146538,
+        "longitude": 139.316133578738
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77546",
+      "telephone": "0463-97-2005",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "19:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

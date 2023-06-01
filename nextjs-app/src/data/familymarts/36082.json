@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36082",
+      
+        "name": "ファミリーマート 追手門学院大学店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府茨木市西安威２－１－１５",
+        "postalCode": "5670008",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.8482434690575,
+        "longitude": 135.558442391798
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36082",
+      "telephone": "072-640-0139",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "22:45"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

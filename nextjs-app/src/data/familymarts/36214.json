@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36214",
+      
+        "name": "ファミリーマート 京北周山町店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "京都府京都市右京区京北周山町泓 １５番",
+        "postalCode": "6010251",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.1513403761358,
+        "longitude": 135.634385128195
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=36214",
+      "telephone": "075-852-5230",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "1:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

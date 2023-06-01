@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78215",
+      
+        "name": "ファミリーマート ＪＲ大分駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大分県大分市要町１番４０号",
+        "postalCode": "8700831",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.232399273161,
+        "longitude": 131.606626990851
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78215",
+      "telephone": "097-513-7055",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": "当面の間、上記時間で営業"
+        }
+      ]
+    }
+    

@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73217",
+      
+        "name": "ファミリーマート 日之影癒しの森入口店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "宮崎県西臼杵郡日之影町大字七折 １２２２０番１",
+        "postalCode": "8820401",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.6756156135178,
+        "longitude": 131.365400662556
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=73217",
+      "telephone": "0982-73-7880",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "24:00"
+          
+        },
+        {
+          "description": "営業時間変更（毎日時短）５：００－２４：００"
+        }
+      ]
+    }
+    

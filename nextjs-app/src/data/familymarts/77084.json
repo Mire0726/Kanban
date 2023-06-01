@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77084",
+      
+        "name": "ファミリーマート 都道府県会館店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "東京都千代田区平河町２丁目６－３",
+        "postalCode": "1020093",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6791086214499,
+        "longitude": 139.738949945801
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=77084",
+      "telephone": "03-3556-3773",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:30",
+            "closes": "18:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

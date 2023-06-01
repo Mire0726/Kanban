@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78016",
+      
+        "name": "ファミリーマート ＪＲ小倉駅店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "福岡県北九州市小倉北区浅野 １丁目１－１",
+        "postalCode": "8020001",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 33.8865506492411,
+        "longitude": 130.882104040281
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=78016",
+      "telephone": "093-513-1161",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    
