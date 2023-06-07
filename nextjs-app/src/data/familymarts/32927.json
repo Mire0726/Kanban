@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=32927",
+      
+        "name": "ファミリーマート ＪＲ津田駅前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "大阪府枚方市津田駅前 １－１３－８－１",
+        "postalCode": "5730125",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.801669880592,
+        "longitude": 135.697558982853
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=32927",
+      "telephone": "072-897-7055",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "6:00",
+            "closes": "1:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

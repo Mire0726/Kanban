@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=18442",
+      
+        "name": "ファミリーマート 三ツ境駅東店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "神奈川県横浜市旭区東希望が丘 ２２３",
+        "postalCode": "2410826",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.4675651909964,
+        "longitude": 139.506671977162
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=18442",
+      "telephone": "045-360-8141",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:30",
+            "closes": "24:30"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

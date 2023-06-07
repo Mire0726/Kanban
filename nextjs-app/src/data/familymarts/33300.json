@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=33300",
+      
+        "name": "ファミリーマート 武庫川女子大学店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "兵庫県西宮市笠屋町１丁目１番地",
+        "postalCode": "6638136",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.7161134006657,
+        "longitude": 135.375179695758
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=33300",
+      "telephone": "0798-42-6656",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "8:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

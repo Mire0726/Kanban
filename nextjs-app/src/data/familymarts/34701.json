@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=34701",
+      
+        "name": "ファミリーマート 笠岡市民病院前店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "岡山県笠岡市笠岡５６１１－５",
+        "postalCode": "7140081",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.5061930693897,
+        "longitude": 133.498275237119
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=34701",
+      "telephone": "0865-69-0322",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "5:00",
+            "closes": "1:00"
+          
+        },
+        {
+          "description": ""
+        }
+      ]
+    }
+    

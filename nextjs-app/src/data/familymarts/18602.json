@@ -1,0 +1,48 @@
+
+    {
+      "@context": "https://schema.org",
+      "@type": "ConvenienceStore",
+      "@id": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=18602",
+      
+        "name": "ファミリーマート シーノ大宮店",
+      
+      "image": [
+        "https://as.chizumaru.com/famima/Views/0/Pc/img/logo_fm_sq.png"
+       ],
+      "address": {
+        "@type": "PostalAddress",
+        "address": "埼玉県さいたま市大宮区桜木町 １－１０－１７",
+        "postalCode": "3300854",
+        "addressCountry": "JP"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.9047703911103,
+        "longitude": 139.619102508031
+      },
+      "url": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=18602",
+      "telephone": "048-650-6691",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          
+          
+            "opens": "7:00",
+            "closes": "20:00"
+          
+        },
+        {
+          "description": "土曜・日曜・祝日は７：００－１８：００"
+        }
+      ]
+    }
+    
